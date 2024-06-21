@@ -6,12 +6,12 @@ window anh em tai mobaxteam ve chay la ngon lanh nhe
 
 username: admin
 
-password: Vhae@04
+password: xxxxxxxx
 
 Host: https://127.0.0.1:8834 
 
 src : elliot-bia
 
 ```
-bash <(curl -sLk https://raw.githubusercontent.com/VHAE04/nessus_oneclick/main/nessus.sh)
+bash <(curl -sLk https://raw.githubusercontent.com/NagisaYumaa/nessus_setup/main/nessus.sh)
 ```
